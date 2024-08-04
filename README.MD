@@ -1,4 +1,4 @@
-<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="200">
+<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="200" style="margin: 0 auto; display: block;" alt="Streamlit logo">
 
 # Streamlit AI Apps
 
