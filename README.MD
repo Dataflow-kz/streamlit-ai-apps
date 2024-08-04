@@ -1,4 +1,4 @@
-![Streamlit Logo](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg)
+<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="200">
 
 # Streamlit AI Apps
 
@@ -20,7 +20,7 @@ Streamlit is an open-source Python library that makes it easy to create and shar
 
 | #ID | Description                       | Tools   | Author      | Date       |
 |-----|-----------------------------------|---------|-------------|------------|
-| 1 |   *DESCRIPTON*   | *Streamlit, Pandas* | *@silvermete0r*   | *2024-08-04* |
+| 1 |   *DESCRIPTION*   | *Streamlit* | *@silvermete0r*   | *2024-08-04* |
 
 ## Contributing
 
