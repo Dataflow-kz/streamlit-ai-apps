@@ -1,5 +1,3 @@
-<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="200" style="margin: 0 auto; display: block;" alt="Streamlit logo">
-
 # Streamlit AI Apps
 
 ![GitHub Stars](https://img.shields.io/github/stars/Dataflow-kz/streamlit-ai-apps)
@@ -30,5 +28,7 @@ We welcome contributions! Please follow these guidelines:
 2. **Commit your changes**: `git commit -m 'Add some feature'`.
 3. **Push to the branch**: `git push origin feature/YourFeature`.
 4. **Create a pull request**.
+
+<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="200" style="margin: 0 auto; display: block;" alt="Streamlit logo">
 
 > **\#Dataflow** making ML look easy!
