@@ -6,7 +6,7 @@ Generate stunning images from text descriptions using the DALL-E 3 model from Op
 
 ## Tools
 
-List the main tools, technologies, and libraries used in the project:
+List of the main tools, technologies, and libraries used in the project:
 
 - Streamlit;
 - OpenAI (DALL-E 3);
