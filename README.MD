@@ -18,7 +18,8 @@ Streamlit is an open-source Python library that makes it easy to create and shar
 
 | #ID | Description                       | Tools   | Author      | Date       |
 |-----|-----------------------------------|---------|-------------|------------|
-| 1 |   *DESCRIPTION*   | *Streamlit* | *@silvermete0r*   | *2024-08-04* |
+| 1 |   [DALL-E 3 Text-to-Image Generator](/text-to-image-generator-app)   | *Streamlit, OpenAI, DALL-E 3* | *@silvermete0r*   | *2024-08-05* |
+| 2 |  ...      | *...*   | *@...*   | *YYYY-MM-DD* |
 
 ## Contributing
 
